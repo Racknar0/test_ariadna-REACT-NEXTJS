@@ -38,7 +38,7 @@ const Carrousel = () => {
         <li data-bs-target="#carouselExampleDark" data-bs-slide-to="2"></li>
       </ol>
       <div className="carousel-inner">
-        <div className="carousel-item active" data-bs-interval="100000">
+        <div className="carousel-item active" data-bs-interval="2500">
           <img src={image1} className="d-block carousel_img" alt="image_aquaman" />
           <div className="carousel-caption">
             <div className='carousel_title_container'>
@@ -51,7 +51,7 @@ const Carrousel = () => {
             </div>
           </div>
         </div>
-        <div className="carousel-item active" data-bs-interval="100000">
+        <div className="carousel-item active" data-bs-interval="2500">
           <img src={image2} className="d-block carousel_img" alt="image_aquaman" />
           <div className="carousel-caption">
             <div className='carousel_title_container'>
@@ -64,7 +64,7 @@ const Carrousel = () => {
             </div>
           </div>
         </div>
-        <div className="carousel-item active" data-bs-interval="100000">
+        <div className="carousel-item active" data-bs-interval="2500">
           <img src={image3} className="d-block carousel_img" alt="image_aquaman" />
           <div className="carousel-caption">
             <div className='carousel_title_container'>

@@ -130,3 +130,31 @@ ol.carousel-indicators {
             width: 15%;
       }
   }
+
+  @media (min-width: 1440px) {
+    .carousel-inner .carousel-item .carousel-caption{
+        top: 30%;
+    }
+    
+    .carousel_title_container{
+        width: 70%;
+        margin-left: 10%;
+
+        .title_caption{
+            font-size: 80px;
+        }
+
+        .description_caption{
+            font-size: 25px;
+        }
+    }
+}
+
+@media (min-width: 1700px) {
+
+    .button_carrousell {
+        width: 20%;
+        height: 60px;
+        font-size: 25px;
+    }
+}
