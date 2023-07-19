@@ -1,4 +1,4 @@
-# JSONPlaceholder API CRUD Application
+# JSON LANDING PAGE - REACT
 
 This is a landing application that interacts with a JSON to render movies.
 
