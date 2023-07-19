@@ -1,0 +1,110 @@
+{
+    "allMovies": [
+      {
+        "id": 1,
+        "title": "Bohemian Rhapsody",
+        "meta_name": "bohemianrhapsody",
+        "img": "bohemian-rhapsody.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Venom",
+        "meta_name": "venom",
+        "img": "venom.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Han Solo",
+        "meta_name": "hansolo",
+        "img": "han-solo.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Incredibles",
+        "meta_name": "incredibles",
+        "img": "incredibles.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Jurassic World",
+        "meta_name": "jurassicworld",
+        "img": "jurassic-world.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Deadpool",
+        "meta_name": "deadpool",
+        "img": "deadpool.png"
+      },
+      {
+        "id": 7,
+        "title": "Firstman",
+        "meta_name": "firstman",
+        "img": "first-man.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Avengers Infinity War",
+        "meta_name": "avengersinfinitywar",
+        "img": "avengers-infinity-war.png"
+      }
+    ],
+    "newReleases": [
+      {
+        "id": 1,
+        "title": "Bohemian Rhapsody",
+        "meta_name": "bohemianrhapsody",
+        "img": "bohemian-rhapsody.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Venom",
+        "meta_name": "venom",
+        "img": "venom.jpg"
+      }
+    ],
+    "mostPopular": [
+      {
+        "id": 1,
+        "title": "Incredibles",
+        "meta_name": "incredibles",
+        "img": "incredibles.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Jurassic World",
+        "meta_name": "jurassicworld",
+        "img": "jurassic-world.jpg"
+      }
+    ],
+    "trends": [
+      {
+        "id": 1,
+        "title": "Deadpool",
+        "meta_name": "deadpool",
+        "img": "deadpool.png"
+      },
+      {
+        "id": 2,
+        "title": "Firstman",
+        "meta_name": "firstman",
+        "img": "first-man.jpg"
+      }
+    ],
+    "favorites": [
+      {
+        "id": 1,
+        "title": "Avengers Infinity War",
+        "meta_name": "avengersinfinitywar",
+        "img": "avengers-infinity-war.png"
+      }
+    ],
+    "recomendations": [
+      {
+        "id": 1,
+        "title": "Han Solo",
+        "meta_name": "hansolo",
+        "img": "han-solo.jpg"
+      }
+    ]
+  }
