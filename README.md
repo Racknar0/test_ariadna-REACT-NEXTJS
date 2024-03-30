@@ -1,5 +1,8 @@
 # JSON LANDING PAGE - REACT
 
+** Deploy
+https://ariadna-test.netlify.app/#
+
 This is a landing application that interacts with a JSON to render movies.
 
 ## Installation
